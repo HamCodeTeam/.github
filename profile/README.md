@@ -22,7 +22,6 @@ We work on a wide range of software projects, including:
 Highlighted repositories:
 
 - **cafe-order-system-portfolio** — A complete cafe ordering and management system.  
-- (Additional projects can be listed here.)
 
 Explore all repositories on our GitHub organization page.
 
