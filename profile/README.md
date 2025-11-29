@@ -2,16 +2,12 @@
 
 HamCodeTeam is a community-focused development group dedicated to building practical, real-world software solutions. Our goal is to create maintainable, well-structured projects while fostering teamwork, learning, and high development standards.
 
----
-
 ## Mission
 
 - Develop reliable, high-quality software with clean and organized code.
 - Encourage collaboration and knowledge sharing among developers.
 - Apply industry best practices and modern development tools.
 - Maintain transparency and openness across all projects.
-
----
 
 ## What We Do
 
@@ -30,8 +26,6 @@ Highlighted repositories:
 
 Explore all repositories on our GitHub organization page.
 
----
-
 ## Technologies
 
 Common tools and technologies used in our projects include:
@@ -40,8 +34,6 @@ Common tools and technologies used in our projects include:
 - **Frontend:** React, JavaScript, TypeScript  
 - **Tools:** Git, GitHub Actions, automation scripts  
 - **Other Skills:** Web scraping, desktop app development, CI/CD workflows  
-
----
 
 ## Contributing
 
@@ -57,8 +49,6 @@ Steps to contribute:
 
 Please follow repository-specific guidelines when available.
 
----
-
 ## Contact
 
 For communication, collaboration, or project participation:
@@ -67,12 +57,8 @@ For communication, collaboration, or project participation:
 - Telegram: https://t.me/hamcodeteam
 - Instagram: https://www.instagram.com/hamcodeteam
 
----
-
 ## About the Team
 
 HamCodeTeam is built around the idea of growing together through real projects, shared knowledge, and consistent improvement. We welcome developers at all levels who are motivated to learn, contribute, and work in a structured development environment.
-
----
-
+<br>
 Thank you for visiting HamCodeTeam.  
